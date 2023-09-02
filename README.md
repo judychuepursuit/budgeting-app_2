@@ -12,9 +12,9 @@ https://github.com/judychuepursuit
 budget-app-front is the frontend app portion (REACT) that pairs with the budgeting-app backend app (EXPRESS) for the Project named:
 My-Budgeting-App
 
-<h3>My-Budget-App Home_pg:<h3> 
-<img alt="my-budget-app Home page"
-src="img/Frnt_budget App_home_pg alt .png" width="350"></img>
+<h3>My-Budget-App Index-pg:<h3> 
+<img alt="my-budget-app Index page"
+src="img/Frnt_budget App_Index pg alt .png" width="350"></img>
 <br> 
 <h3>My Trello Board:<h3> <h4><i>contact me to request access to board</i></h4>
 <img alt="BUDGET TRELLO BOARD" src="img/Judy Budget app Trello Board.png" width="550"></img>
